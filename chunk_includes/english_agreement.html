@@ -1,0 +1,117 @@
+<style type="text/css">
+
+  p {text-align: justify;
+    font-family:   "Palatino Linotype", "Book Antiqua", Palatino, serif; font-size:120%;}
+
+  h2 {color: #6496c8;
+  font-family:   "Palatino Linotype", "Book Antiqua", Palatino, serif;}
+
+  .settings {
+    display: table;
+    width: 60%;
+
+  }
+  .settings .row {
+    display: table-row;
+  }
+  .settings .question,
+  .settings .switch {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 10px;
+    text-align: right;
+  }
+  .settings .question {
+    width: 600px;
+    font-size: 20px;
+  }
+
+  .cmn-toggle {
+    position: absolute;
+    margin-left: -9999px;
+    visibility: hidden;s
+  }
+  .cmn-toggle + label {
+    display: block;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+    user-select: none;
+  }
+
+  input.cmn-toggle-round + label {
+  padding: 1px;
+  width: 50px;
+  height: 25px;
+  background-color: #dddddd;
+  border-radius: 25px;
+}
+input.cmn-toggle-round + label:before,
+input.cmn-toggle-round + label:after {
+  display: block;
+  position: absolute;
+  top: 0.5px;
+  left: 0.5px;
+  bottom: 0.5px;
+  content: "";
+}
+input.cmn-toggle-round + label:before {
+  right: 1px;
+  background-color: #f1f1f1;
+  border-radius: 25px;
+  transition: background 0.4s;
+}
+input.cmn-toggle-round + label:after {
+  width: 25px;
+  background-color: #fff;
+  border-radius: 100%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  transition: margin 0.4s;
+}
+input.cmn-toggle-round:checked + label:before {
+  background-color: #8ce196;
+}
+input.cmn-toggle-round:checked + label:after {
+  margin-left: 25px;
+}
+
+</style>
+
+<div style="width: 40em;">
+
+<h2>
+Please consider this information carefully before deciding whether to participate in this research.
+</h2>
+
+  <p>
+    We invite you to participate in a research study on language production and comprehension.
+    We will ask you to do a linguistic task such as reading sentences or words, naming pictures or describing scenes,
+    making up sentences of your own, or participating in a simple language game.
+  </p>
+
+  <p>
+    If you have read this form and have decided to participate in this experiment, please understand your participation is voluntary
+    and you have the right to withdraw your consent or discontinue participation at any time.
+    However, please note that in order to validate the Hit you need to complete the experiment and wait until the results are sent
+    (this should only take a few seconds), otherwise we have no way to ensure that you participated at all.
+    </p>
+<p>
+  There are no risks or benefits of any kind involved in this study. You will be paid for your participation at the posted rate.
+  </p>
+  <p>
+Your participation in this study will remain confidential. Your individual privacy will be maintained in all published and written data
+    resulting from the study. You may print this form for your records.
+
+
+  </p>
+</div>
+
+
+  <div class="settings">
+    <div class="row">
+      <div class="question"> I agree to participate  </div>
+      <div class="switch">
+        <input id="cmn-toggle-1" class="cmn-toggle cmn-toggle-round obligatory" type="checkbox">
+        <label for="cmn-toggle-1"></label>
+      </div>
+    </div>

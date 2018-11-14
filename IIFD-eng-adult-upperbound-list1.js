@@ -191,14 +191,14 @@ var items = [
 
       ["13.01",   //1148-onlyP2-noP1-na-someB-square-conjunctiveB-left
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/mnzhSDj.png"], //3c0s
                                           ["K","https://imgur.com/mKarxSv.png"]]}], //3c4s
       ["13.02",   //1129-onlyP2-noP1-na-someB-circle-knownB-right
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/zIUwK4N.png"], // 4c2s
@@ -207,14 +207,14 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_circle_three_squares.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/CKEa3Zr.png"], //4c0s
                                           ["K","https://imgur.com/d9htci3.png"]]}], //4c3s
       ["13.04",   //1159-onlyP2-noP1-na-someB-square-knownA-right
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/KduS46H.png"], //3c2s
@@ -223,7 +223,7 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_circle_three_squares.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/EhOp8QM.png"], // 0c3s
@@ -239,14 +239,14 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_circle_three_squares.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/EhOp8QM.png"], // 0c3s
                                           ["K","https://imgur.com/zIUwK4N.png"]]}], // 4c2s
       ["13.08",  //1121-onlyP2-noP1-na-someB-circle-mixedAB-right
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/eQh40x2.png"], // 2c3s
@@ -255,14 +255,14 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_square_three_circles.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/VAObTsD.png"], //0c4s
                                           ["K","https://imgur.com/KduS46H.png"]]}], //3c2s
       ["13.10",  //1138-onlyP2-noP1-na-someB-circle-knownA-left
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/CKEa3Zr.png"], //4c0s
@@ -278,14 +278,14 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_square_three_circles.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/mnzhSDj.png"], //3c0s
                                           ["K","https://imgur.com/M6bF0FW.png"]]}], //2c4s
       ["13.13",   //1151-onlyP2-noP1-na-someB-square-knownB-right
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/M6bF0FW.png"], //2c4s
@@ -294,14 +294,14 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_circle_three_squares.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/d9htci3.png"], // 4c3s
                                           ["K","https://imgur.com/EhOp8QM.png"]]}], // 0c3s
       ["13.15",   //1136-onlyP2-noP1-na-someB-square-conjunctiveA-left
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/VAObTsD.png"], //0c4s
@@ -310,7 +310,7 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_square_three_circles.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/mKarxSv.png"], // 3c4s
@@ -324,14 +324,14 @@ var items = [
                                           ["K","https://imgur.com/EhOp8QM.png"]]}], //0c3s
       ["13.18",   //1155-onlyP2-noP1-na-someB-square-conjunctiveA-right
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/mKarxSv.png"], //3c4s
                                           ["K","https://imgur.com/VAObTsD.png"]]}], //0c4s
       ["13.19",   //1134-onlyP2-noP1-na-someB-circle-conjunctiveA-left
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/CKEa3Zr.png"], // 4c0s
@@ -340,14 +340,14 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_square_three_circles.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/M6bF0FW.png"], // 2c4s
                                           ["K","https://imgur.com/KduS46H.png"]]}], // 3c2s
       ["13.21",   //1131-onlyP2-noP1-na-someB-square-knownB-right
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/M6bF0FW.png"], //2c4s
@@ -363,7 +363,7 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_circle_three_squares.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/eQh40x2.png"], //2c3s
@@ -379,7 +379,7 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_square_three_circles.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/VAObTsD.png"], // 0c4s
@@ -387,7 +387,7 @@ var items = [
 
       ["13.26",  //1143-onlyP2-noP1-na-someA-square-mixedAB-right
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/KduS46H.png"], // 3c2s
@@ -396,14 +396,14 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_circle_three_squares.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/eQh40x2.png"], //2c3s
                                           ["K","https://imgur.com/CKEa3Zr.png"]]}], //4c0s
       ["13.28",   //1146-onlyP2-noP1-na-someB-circle-conjunctiveB-left
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/EhOp8QM.png"], //0c3s
@@ -412,14 +412,14 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_square_three_circles.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/KduS46H.png"], //3c2s
                                           ["K","https://imgur.com/M6bF0FW.png"]]}], //2c4s
       ["13.30",   //1142-onlyP2-noP1-na-someA-circle-mixedAB-left
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/zIUwK4N.png"], // 4c2s
@@ -429,7 +429,7 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_square_three_circles.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/VAObTsD.png"], // 0c4s
@@ -450,7 +450,7 @@ var items = [
                                           ["K","https://imgur.com/mKarxSv.png"]]}], //3c4s
       ["13.34",   //1126-onlyP2-noP1-na-someB-circle-conjunctiveB-left
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/EhOp8QM.png"], //0c3s
@@ -466,7 +466,7 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_circle_three_squares.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/CKEa3Zr.png"], //4c0s
@@ -475,7 +475,7 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_square_three_circles.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/mKarxSv.png"], //3c4s
@@ -484,7 +484,7 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_circle_three_squares.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/zIUwK4N.png"], //4c2s
@@ -498,14 +498,14 @@ var items = [
                                           ["K","https://imgur.com/zIUwK4N.png"]]}], // 4c2s
       ["13.40",   //1158-onlyP2-noP1-na-someB-circle-knownA-left
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/CKEa3Zr.png"], //4c0s
                                           ["K","https://imgur.com/eQh40x2.png"]]}], //2c3s
       ["13.41",   //1139-onlyP2-noP1-na-someB-square-knownA-right
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/KduS46H.png"], //3c2s
@@ -514,21 +514,21 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_circle_three_squares.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/eQh40x2.png"], // 2c3s
                                           ["K","https://imgur.com/zIUwK4N.png"]]}], // 4c2s
       ["13.43",   //1124-onlyP2-noP1-na-someB-square-mixedAB-left
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/M6bF0FW.png"], // 2c4s
                                           ["K","https://imgur.com/KduS46H.png"]]}], // 3c2s
       ["13.44",   //1149-onlyP2-noP1-na-someB-circle-knownB-right
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/zIUwK4N.png"], //4c2s
@@ -537,7 +537,7 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_square_three_circles.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/mnzhSDj.png"], //3c0s
@@ -546,7 +546,7 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_square_three_circles.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/KduS46H.png"], // 3c2s
@@ -562,21 +562,21 @@ var items = [
                 "MyTime", {},
                 "EnglishMessage",  {html: {include: 'eng_every_circle_three_squares.html'}},
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_squares.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_square.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/eQh40x2.png"], // 2c3s
                                           ["K","https://imgur.com/zIUwK4N.png"]]}], // 4c2s
       ["13.49",   //1127-onlyP2-noP1-na-someB-square-conjunctiveB-right
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/mKarxSv.png"], //3c4s
                                           ["K","https://imgur.com/mnzhSDj.png"]]}], //3c0s
       ["13.50",   //1154-onlyP2-noP1-na-someB-circle-conjunctiveA-left
                 "MyTime", {},
-                "EnglishMessage",  {html: {include: 'eng_not_every_circles.html'}},
+                "EnglishMessage",  {html: {include: 'eng_not_every_circle.html'}},
                 "MyTime", {},
                 "EnglishPictureAccept",  {s: "Which worksheet is it?",
                                     as:   [["D","https://imgur.com/CKEa3Zr.png"], //4c0s
